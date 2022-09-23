@@ -1,7 +1,10 @@
 import React, { Component } from "react";
+import Slider from "./component/Slider";
 
 export default class App extends Component {
   render() {
-    return <div className="flex justify-center"></div>;
+    return <div className="flex justify-center">
+      <Slider/>
+    </div>;
   }
 }
