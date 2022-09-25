@@ -19,8 +19,7 @@ export default class Testimonials extends Component {
             <h3>Shirley Fultz</h3>
             <h4>Designer</h4>
             <p>
-              It's freeing to be able to catch up on customized news and not be
-              distracted by a social media element on the same site
+              My Analytics School helped me improving my skills and knowledge intuitive and easy to understand. I would recommend it to anyone who wants to learn more about Google Analytics.
             </p>
           </div>
         </div>
@@ -31,8 +30,7 @@ export default class Testimonials extends Component {
             <h3>Daniel Keystone</h3>
             <h4>Designer</h4>
             <p>
-              The simple and intuitive design makes it easy for me use. I highly
-              recommend Fetch to my peers.
+              My Analytics School helped me improving my skills and knowledge intuitive and easy to understand. I would recommend it to anyone who wants to learn more about Google Analytics.
             </p>
           </div>
         </div>
@@ -43,8 +41,7 @@ export default class Testimonials extends Component {
             <h3>Theo Sorel</h3>
             <h4>Designer</h4>
             <p>
-              I enjoy catching up with Fetch on my laptop, or on my phone when
-              I'm on the go!
+              My Analytics School helped me improving my skills and knowledge intuitive and easy to understand. I would recommend it to anyone who wants to learn more about Google Analytics.
             </p>
           </div>
         </div>
