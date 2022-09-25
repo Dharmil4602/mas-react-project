@@ -1,12 +1,17 @@
-import React, { Component } from "react";
-import Slider from "./components/Slider";
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Testimonials from "./components/Testimonial";
 
-export default class App extends Component {
-  render() {
-    return (
-    <div className="flex justify-center">
-      <Slider/>
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>Testimonials</h1>
+        <Testimonials />
+      </header>
     </div>
-    );
-  }
+  );
 }
+
+export default App;
