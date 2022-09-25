@@ -3,8 +3,10 @@ import Slider from "./components/Slider";
 
 export default class App extends Component {
   render() {
-    return <div className="flex justify-center">
+    return (
+    <div className="flex justify-center">
       <Slider/>
-    </div>;
+    </div>
+    );
   }
 }
